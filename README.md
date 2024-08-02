@@ -1,2 +1,2 @@
 # Movie-Recommender-System-using-Python-Base-on-your-previous-experience
-ww
+In this project, I developed a movie recommendation system using Python and Pandas, building on my previous experience. The system analyzes a dataset with inputs including user ID, item ID, rating, and timestamp. By calculating similarity scores between movies based on historical user ratings, the system generates movie recommendations. When a user selects a movie, the system suggests other movies that are most similar to the chosen one. This project demonstrates item similarity-based recommendations, providing a foundational approach to building more advanced and personalized recommendation systems.
